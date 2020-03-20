@@ -4,3 +4,6 @@
 3. npm install mysql -save
 4. npm install body-parser --save
 5. node server.js
+
+
+db. js file include the database file.
